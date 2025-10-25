@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="https://i.imgur.com/qW8YkEo.png" width="100%" alt="banner"/>
+<img src="https://i.imgur.com/9qPkWPd.jpeg" width="100%" alt="banner"/>
 
 <h1 align="center">Hi 👋, I'm Vaibhav Vats</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
@@ -16,7 +16,7 @@
 
 ### 🌐 Connect with me:
 <p align="left">
-<a href="[https://linkedin.com/in/vaibhavvats321](https://www.linkedin.com/in/vaibhav-vats-bb616415b/)" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40"/></a>
+<a href="https://www.linkedin.com/in/vaibhav-vats-bb616415b" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40"/></a>
 </p>
 
 ---
